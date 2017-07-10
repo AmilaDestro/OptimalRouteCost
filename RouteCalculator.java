@@ -1,4 +1,4 @@
-package com.implemica.testtask2;
+package my.implementation.findoptimal.route;
 
 
 import java.io.BufferedReader;
